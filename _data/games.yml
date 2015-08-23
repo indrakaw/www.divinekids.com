@@ -1,0 +1,701 @@
+# Games! Daftar mengarah sini!
+# Semua data akan di-build ke halaman /games/.
+# BUSET DAHHH!! Datanya sampai ratuan baris O_o
+# TO DO: (1) Cari cara alternative, mungkin CSV? (2) Belajar Database Manajemen.
+
+#---------------------
+# Buatan David Setiabudi
+#---------------------
+
+- name: Petualangan Divinekids
+  author: David Setiabudi
+  summary: >
+    Game RPG petualangan Abe,Bambo,Cici melawan penyihir gelap Indra yang akan membangkitkan Iblis 1000 tahun. Cerita menarik, petempuran seru, animasi dengan bahasa Indonesia, asyik dimainkan.
+  dll: ['petdivine.zip']
+
+- name: Dadu Master SE
+  author: David Setiabudi
+  summary: >
+    Game Pertaruhan Dadu Besar Kecil dengan jurus-jurus seperti : Scorpion Eye- mata tembus pandang dadu, Pendengaran Super, Gebrakan Dadu, dan banyak jurus lain. Bersipalah untuk tanding Final di Hongkong!
+  dll: ['dadu.zip']
+
+- name: Kuis Kata Divinekids
+  author: David Setiabudi
+  summary: >
+    Game menebak kata yang tersembunyi. Anda pilih huruf apa yang kira-kira ada di layar. Jika tepat maka tampil, jika salah maka kesempatan berkurang. Anda bisa pakai koin tambah 1 atau 2 kesempatan
+  dll: ['kuiskata.zip']
+
+- name: Catur Divinekids
+  author: David Setiabudi
+  summary: >
+    Game permainan yang sering kali dikenal dengan catur jawa : 3 X 3. Jika anda berhasil membuat tiga gambar segaris maka andalah pemenangnya. Bisa menurun, mendatar, atau diagonal.
+  dll: ['catur.zip']
+
+- name: Berhitung Keren DK
+  author: David Setiabudi
+  summary: >
+    Game belajar menghitung penjumlahan, pengurangan,dll. Ada sistem rapor dan kenaikan kelas. Jika anda mendapat nilai jelek ya siap-siap aja dimangsa oleh BAMBODINO yang bergigi tajam!!! Grauwww!!!
+  dll: ['berhitung.zip']
+
+- name: Kartu Kembar DK Alpha
+  author: David Setiabudi
+  summary: >
+    Game permainan mencari pasangan kartu yang kembar dengan suasana pagi yang santai, malam yang indah, dll. Permainan standar yang cocok untuk rileks.
+  dll: ['kkdkalpha.zip']
+
+- name: Kartu Kembar DK Multi Bahasa
+  author: David Setiabudi
+  summary: >
+    Game permainan mencari pasangan kartu yang kembar dengan jurus untuk melawan gangguan musuh : penukar kartu, jurus penyerang,dll. 5 bahasa: Indonesia,Inggris, Mandarin, Jawa, Palembang!!!
+  dll: ['kkdkmbhs.zip']
+
+- name: Divine Jets Beta
+  author: David Setiabudi
+  summary: >
+    Game pesawat dengan kendali mouse. Menembak tinggal klik saja dan arah gerak pesawat dari keluwesan anda menggerakan mouse. Lawan anda Gatot Kaca???
+  dll: ['divinejet-beta.zip']
+
+- name: Kartu Kembar Variasi
+  author: David Setiabudi
+  summary: >
+    Game permainan mencari pasangan kartu yang kembar dengan banyak pilihan kategori, foto-foto, angka,warna,gambar,dll Sangat bagus untuk melatih ingatan anda. Ada orang yang kuat menghafal warna, ada yang kuat mengahafal bentuk.
+  dll: ['kkdkvariasi.zip']
+
+- name: Monster Jahat Buster
+  author: David Setiabudi
+  summary: >
+    Game tembak monster yang melintasi daerah anda, klik kanan untuk isi peluru anda! Kalau anda berhasil akan dapat pujian, kalau gagal.... Temui monster-monster yang aneh!
+  dll: ['monster.zip']
+
+- name: Misi Besar Divine Edu
+  author: David Setiabudi
+  summary: >
+    Game terbang petualang ini memiliki 3 pilihan jagoan untuk melakukan misi besar. Dunia dinosaurus, listrik,gua alien, dll menanti anda. Bahasa Indonesia, Inggris. Kendali dengan mouse & klik tembak.+ sedikit tes matematika & bahasa.
+  dll: ['misibesar.zip']
+
+- name: Game Pemilu 2004
+  author: David Setiabudi
+  summary: >
+    Game mencari kartu kembar dengan bendera-bendera partai Pemilu 2004.Tidak ada tujuan kampanye satu/lebih partai. Game ini membantu anda menghafal nama partai, dan mengetahui lambang partai.
+  dll: ['pemilu2004.zip']
+
+- name: Siege Arm (bth Dosbox)
+  author: David Setiabudi
+  summary: >
+    Game buatan David Setiabudi 1992-1993 di SMUK St.Albertus Malang. Game dengan kontrol arah 4,8,6,2 - Spasi tembak - 5 Thunder. Game ini tidak diakui sebagai Game Pertama Indonesia karena judul sama dengan game buatan asing & penyebaran kurang luas,dll.
+  dll: ['siegearm.zip']
+
+- name: PuzzleMaster DivineKids
+  author: David Setiabudi
+  summary: >
+    Game menyusun gambar teracak ini menggunakan mouse. Pada pointer mouse ada jagoan kita Cici, hati-hati jangan sampai menabrak musuh. Ada Leak, Barong, dll. Semua bertema BALI, dari gambar puzzle,musik, musuh.+ Lampung + Lombok.
+  dll: ['puzzlemasterdk.zip']
+
+- name: Magical Cangkul
+  author: David Setiabudi
+  summary: >
+    Game bermain kartu cangkul / 'minuman' yang populer di Indonesia. Anda diikutsertakan dalam suatu turnamen melawan jagoan-jagoan yang ganteng dan cantik. Model mahasiswa/i dari Untar, Binus, IKJ. Bisakah anda melawan sang boss Reiza?
+  dll: ['cangkul.zip']
+
+- name: Misteri Raja Pocong
+  author: David Setiabudi
+  summary: >
+    Game arcade petualangan melawan pocong narkoba, anarkis,koruptor,dll ini memiliki animasi 3 bahasa:Ind,Ing,Jawa. Kontrol keyboard atau gamepad. Tiap menang lawan 1 boss pocong dapat jurus baru. Final boss: Kumantho pemakan mayat! Indosiar, SCTV, Trans7, TPI, dll.
+  dll: ['mrpocong.zip']
+
+- name: Sekolah Gambar
+  author: David Setiabudi
+  summary: >
+    Menggambar untuk TK dan SD dengan komputer akan lebih menyenangkan dengan "Sekolah Gambar". Banyak bimbingan step by step menggambar.
+  dll: ['sekolahgambar.zip']
+
+- name: Bambo Bledhar
+  author: David Setiabudi
+  summary: >
+    Game ini fun dan bikin pinter. Ada acara ngebom dan strategi dorong batu.10 stage& 3 level. Bahasa  Indonesia,Inggris,Jawa. Item pelebar bom,sepatu,dll.
+  dll: ['bledhar.zip']
+
+- name: Garuda Jetz v1.25
+  author: David Setiabudi
+  summary: >
+    Game 5 Pesawat yang bisa dipilih dan bisa diupgrade variasi tembakannya. Dilindungi Garuda Bahasa Indonesia dan Inggris. 10 stage.
+  dll: ['garudajetz.zip']
+
+- name: Campus Fighter Turbo
+  author: David Setiabudi
+  summary: >
+    Game Petarung Kampus adalah game tinju, untuk menunjukkan siapakah jagoan kampus terkuat. Ada 8 musuh yang akan merintangi anda. Jurusnya asyik!
+  dll: ['campusfighter.zip']
+
+- name: Mobil Ngebut!
+  author: David Setiabudi
+  summary: >
+    Game balap rintangan ini diadakan di Bali & Padang. Kendalai mobil balap ini dengan menggunakan mouse. Klik kiri untuk gas, klik kanan untuk BOOSTER NITRO.
+  dll: ['mobilkebut.zip']
+
+- name: Cherry Days
+  author: David Setiabudi
+  summary: >
+    Game dating cerita bercabang yang banyak banget pilihan ceritanya! Ada video file untuk ending tertentu. Musik dari KISA group band. Game ok ini banyak pemeran,ekspresi per orang, cabang, movie. Terus diupdate.
+  dll: ['cherrydays.zip']
+
+- name: Mobil Balap Ketik V0.30
+  author: David Setiabudi
+  summary: >
+    Semakin anda mengetik cepat semakin cepat mobil anda. Game ini membantu anda berlatih mengetik 10 jari agar menjadi lebih seru. Cocok juga untuk sekolah SMP, SMA. Ada pencatatan waktu 3 terbaik.
+  dll: ['mbk.zip']
+
+- name: Kartu 13 Capsa
+  author: David Setiabudi
+  summary: >
+    Pernah main kartu Capsa Susun? Nah susunlah formasi kartu anda 3-5-5 dan kalahkanlah formasi kartu lawan! Seru!
+  dll: capsa.zip
+
+- name: 13 Kerajaan (v1.82)
+  author: David Setiabudi
+  summary: >
+    Game Strategi Multiplayer (1-13 pemain) dalam 1 komputer. Dapatkah anda sebagai raja mempersatukan 13 kerajaan dan menjadi kaisar? (Eng/Ind)
+  dll: ['13kerajaan.zip']
+
+- name: Dunia Mewarnai Anak
+  author: David Setiabudi
+  summary: >
+    Anak-anak akan diajak mewarnai gambar dengan berbagai macam palet warna. Hasilnya sang anak dapat mengeprint hasil karyanya. Cobalah berekperimen warna untuk pengetahuan yang kaya akan warna! Software bagus untuk sekolah-sekolah.
+  dll: ['dma.zip']
+
+- name: Dunia Mewarnai Anak Sekolah Minggu
+  author: David Setiabudi
+  summary: >
+    Nah yang satu ini khusus anak-anak dan guru-guru Sekolah Minggu. Warnai dan PRINT gambar. Download 2.5 Mb saja!
+  dll: ['sekolahminggu.zip']
+
+- name: Game Pemilu 2009
+  author: David Setiabudi
+  summary: >
+    Game satu ini mengajak anda bermain asyik bersama simbol-simbol partai Pemilu 2009. Game ini mengajak anda agar hafal nama dan simbol Partai dengan mencari ala Kartu Kembar. Ada 16, 24, 32 kartu pilihan. Rahasia: 72 kartu???
+  dll: ['pemilu2009.zip']
+
+- name: Pendekar Bambo Ketik
+  author: David Setiabudi
+  summary: >
+    Game mini ala RPG, anda berstrategi, sekaligus berlatih mengetik! Semakin jauh beda level anda denganmusuh, semakin banyak huruf, dan gunakan strategi yang tepat! Bisa ketik 10 jari? Coba level EDAN!
+  dll: ['bamboketik.zip']
+
+- name: Divine Kids Strategy Frontier
+  author: David Setiabudi
+  summary: >
+    Game Strategi Multiplayer (1-4 pemain) ibarat main catur tapi pas fightnya seperti RPG. Kini anda bisa main VS dengan teman-teman anda. Atur strategi agar menang. Story Mode sedang ditambah stagenya biar okeh.
+  dll: ['dksf.zip']
+
+- name: Game SBY Anti Koruptor
+  author: David Setiabudi
+  summary: >
+    Game Kampanye Pertama Indonesia yang dibuat Februari 2009 untuk mendukung Bapak Presiden SBY. Game ini boleh didownload jika anda berusia 21 tahun keatas/ usia pencontreng. Password : sbyok
+  dll: ['gamesby.zip']
+
+- name: SBY Boediono Game
+  author: David Setiabudi
+  summary: >
+    Game Kampanye kedua buatan David Setiabudi.Tipe petualangan, pilih jagoan anda, SBY tenaga 400 tembak besar. Boediono loncat tinggi. Game ini menantang! Game ini boleh didownload jika anda berusia 21 tahun keatas/ usia pencontreng.
+  dll: ['sbyboedionogame.zip']
+
+- name: Jaran Divinekids Menyamakan Bentuk
+  author: David Setiabudi
+  summary: >
+    Game mencari persamaan bentuk dan warna dalam gaya pacuan kuda. Ada level gampang, normal dan edan. 3 stage area yang seru. Anda bisa jadi jagoan di game ini, baca Photo to Game!!!
+  dll: ['jaran.zip']
+
+- name: Bambo Quest Melawan Raja Kobra
+  author: David Setiabudi
+  summary: >
+    Game petualangan di dalam sebuah istana, Bambo bisa menggunakan keris atau ketapel untuk mengalahkan musuh. Dapatkan uang, peta, kunci di dalam istana. Awas Raja Kobra!
+  dll: ['bamboquest.zip']
+
+- name: Puzzle Divine Kids
+  author: David Setiabudi
+  summary: >
+    Main Puzzle seru dengan 3 tombol bantuan serta ada 3 level pilihan : Gampang, Normal, Edan. Ada banyak gambar disini, anda sanggup tahan berapa Ronde? Seru bo!
+  dll: ['puzzledk.zip']
+
+- name: Serupa Tapi Beda
+  author: David Setiabudi
+  summary: >
+    Game serupa ini menantang kejelian mata anda mencari 7 perbedaan di gambar ini menentukan kemenangan game. Tersedia banyak gambar di dalam game in. Ada catatan 10 pemain terbaik. Tamat stage: 24.
+  dll: ['serupa.zip']
+
+- name: Mari Berhitung Ruang Bangun
+  author: David Setiabudi
+  summary: >
+    Game belajar menghitung Isi Prisma, Kerucut, Silinder, Bola, Kubus, dan lain-lain. Bermain sambil belajar yang menyenangkan. Kontrol : Keyboard ARAH dan Tombol Z. Membantu yang ujian UN.
+  dll: ['ciciruangbangun.zip']
+
+- name: Sepak Bola Divine Kids
+  author: David Setiabudi
+  summary: >
+    Indonesia masuk PIALA DUNIA terwujudkan dalam Game sepak Bola DK.11 vs 11 orang dikendalikan dengan MOUSE (Copyright David Setiabudi) sungguh SERU!!! Bisa menang lawan SPANYOL? Belanda?
+  dll: ['sepakbolanewest.zip']
+
+- name: Dunia Mewarnai Divinekids
+  author: David Setiabudi
+  summary: >
+    Game mewarnai keren dimana kamu dapat belajar mewarnai, dan berani bereksperimen mencoba-coba menemukan kombinasi warna keren. Pilihan gambar yang lucu, kocak, manis, macam-macam!
+  dll: ['duniamewarnaidk.zip']
+
+- name: Taro Tembak Blast
+  author: David Setiabudi
+  summary: >
+    Game tembak-tembakan TARO (TARO SNACK) dengan menggunakan mouse klik sebagai tembak. Ayo mainkan gamenya sambil makan Taro Snack yang "Enaknya Sungguh Krazzaaa...."
+  dll: ['tarotembak.zip']
+
+- name: Taro Cowboy
+  author: David Setiabudi
+  summary: >
+    Game petualangan TARO (TARO SNACK). Mau loncat, jongkok, atau tembak tinggal klik tombol di bawahnya. Asyik! Ayo mainkan gamenya sambil makan Taro Snack yang "Enaknya Sungguh Krazzaaa...."
+  dll: ['tarocowboy.zip']
+
+- name: Taro Gunman
+  author: David Setiabudi
+  summary: >
+    Petualangan Taro melawan Trio Pengacau yang dijamin seru. Kontrol menggunakan keyboard, Taro memiliki pistol snack Tembak Blast, dan Bola Snack Pelindung yang hebat. Game yang harus punya! Action game!!!
+  dll: ['tarogunman.zip']
+
+- name: TARO QUEST
+  author: David Setiabudi
+  summary: >
+    Petualangan Taro melawan Trio Pengacau dalam Peta yang SANGAT LUAS, senjata yang bermacam-macam, rakit, bom, istana boss yang berliku-liku. Game masterpiece Taro Snack yang HARUS PUNYA!!! Seru!!! Action game!!!
+  dll: ['taroquest.zip']
+
+- name: Mangkok Cepat DK / Quick Bowl DK
+  author: David Setiabudi
+  summary: >
+    Satu koin diletakkan diantara 3 mangkok, dan digerakkan secara cepat. Nah kemudian cari mangkok mana yang ada koinnya tadi. Sejauh mana kemampuan mata dan konsentrasi gabungan anda. Pembuat game ini dapat sampai Level Normal 15 !!!
+  dll: mangkokdk.zip
+
+- name: Lolos dari Ruangan Beracun
+  author: David Setiabudi
+  summary: >
+    Game petualangan strategi Bambo Ijo agar lolos dari ruangan penuh asap rokok beracun. Game kampanye ANTI MEROKOK DI TEMPAT UMUM. Satukan tanda "Dilarang" dan tanda "Merokok" untuk buka pintu.
+  dll: ['ruanganberacun.zip']
+
+- name: Kuis 7 Miiar Rupiah / 7 Billion quiz
+  author: David Setiabudi
+  summary: >
+    Game kocak menjawab pertanyaan dan dapatkan 7 Miliar Rupiah! (kalo sial malah dapat HUTANG 2 Miliar). Gileee!!!  Ada QUIZ EDITTOR, jika mau membuat soal untuk game ini. Buat sendiri, dan test temanmu!
+  dll: ['kuis7m.zip']
+
+- name: ['English Words (versi 1.00)']
+  author: David Setiabudi
+  summary: >
+    English Asyik dan Keren! Pilih huruf dan susun seberapa banyak kata Bahasa Inggris yang kamu bisa buat. Makin panjang huruf makin tinggi skor, Awas jebakan-jebakan!
+  dll: ['englishwords.zip']
+
+- name: Divinekids R (versi 0.06)
+  author: David Setiabudi
+  summary: >
+    Indonesia English Game RPG yang sedang dikerjakan David Setiabudi. Doakan saja jadi. Programming sangat menantang. Resiko tidak jadi... ada..
+  dll: ['divinekidsr.zip']
+
+- name: GAMEKU SENDIRI
+  author: David Setiabudi
+  summary: >
+    Impian anak-anak bisa GAMPANG membuat game terwujud. Coba pakai software gratis GAMEKU SENDIRI ini. Buat 8 karakternya sendiri, atur daya serang, kecepatan,dll Anak-anak pasti suka!
+  dll: ['gameku.zip']
+
+- name: AMBUSH LEADERS ( Ind / Eng )
+  author: David Setiabudi
+  summary: >
+    Game Strategi Perang Robot (Turnbase Strategy Game) ini merupakan bentuk game 2011 yang berasal dari Papan Permainan : David Setiabudi& Teddy Gunawan 1993.
+  dll: ['ambush.zip']
+
+- name: DIVINEKIDS MARATHON ( Ind / Eng )
+  author: David Setiabudi
+  summary: >
+    4 orang pemain bisa diatur orang/komputer berlomba menuju ke garis finish, tetapi banyak monsternya. Kamu juga punya jebakan iseng untuk memperlambat teman kamu: ranjau dan penjara angka. Kocak!
+  dll: ['marathon.zip']
+
+- name: BILANGAN PECAHAN FRACTION SURVIVAL
+  author: David Setiabudi
+  summary: >
+    Game untuk para murid dan guru agar bisa bermain sambil belajar BILANGAN PECAHAN. Plus, Minus, Kali, Bagi. Cuma orang keren bisa sampe LV 99.
+  dll: ['pecahanfractions.zip']
+
+- name: BAJAJ JAKARTA
+  author: David Setiabudi
+  summary: >
+    Belajar menyetir & Nawar Indonesia - English Ayo kita belajar menyetir bajaj, tahu arah jalan, nawar saat naik bajaj, menghindari ayam lewat, terutama ANTAR JEMPUT orang. Seru, kocak, MANTAP!
+  dll: ['bajajjakarta.zip']
+
+- name: Kidi Ketapel (ver 1.20) Indonesia / English
+  author: David Setiabudi
+  summary: >
+    Petualangan Kidi Ayam melawan Geng Anjing Perokok dengan ketapelnya. Seru, kocak, dan nyolot (untuk para perokok). Pilih download (sama):
+  dll: ['kidiketapel.zip']
+
+- name: Aigo Korea (ver 1.00) Indonesia / English
+  author: David Setiabudi
+  summary: >
+    Belajar Bahasa Korea awalnya belajar hafal abjad, nah dengan game ini belajar Korea jadi terasa menyenangkan dan gampang. Unik dan Menarik!
+  dll: ['aigokorea.zip']
+
+- name: Anjing Perokok(ver 1.00) Indonesia / English
+  author: David Setiabudi
+  summary: >
+    Perokok di tempat umum MERAJALELA. Meracuni anak-anak dengan asapnya, Game bola pantul kocak ini menentang para anjing perokok tersebut.
+  dll: ['anjingperokokthegame.zip']
+
+- name: NGOCEH INDONESIA
+  author: David Setiabudi
+  summary: >
+    Text to speech PLUS GAME Speak : Indonesia - Jawa Kocak Buanget! Ubah SEMUA ketikan anda jadi suara, asal bahasa Indonesia atau Jawa. SEMUA bisa main, jg sangat berguna : tunawicara& tunanetra.
+  dll: ['ngoceh.zip']
+
+- name: BEDA Indonesia / English
+  author: David Setiabudi
+  summary: >
+    Ada 32 photo mahasiswa dan masing-masing ada yang kembar 2, kembar 3, dst. TAPI SATU photo yang tidak ada kembarannya. Temukan itu! Photo kocak mahasiswa..
+  dll: ['beda.zip']
+
+- name: MESIAS / MESSIAH v0.10
+  author: David Setiabudi
+  summary: >
+    Game 40 Mb. Real Time strategy tentang Yesus dan murid-muridnya menyembuhkan orang buta, lumpuh, mengusir Iblis, membangkitkan orang mati.
+  dll: ['mesias.zip']
+
+- name: BAKAT BISNIS
+  author: David Setiabudi
+  summary: >
+    Anda menjadi kasir sebuah supermarket yang melayani banyak pembeli. Dari sinilah dapat diukur apakah anda berbakat jadi seorang wirausahawan/ businessman. PLUS Saran Bisnis! Awas BAMBO marah-marah ya!
+  dll: ['bakatbisnis.zip']
+
+- name: GAME STRATEGIKU
+  author: David Setiabudi
+  summary: >
+    STRATEGY GAME CREATOR Indonesia - Version 1.50 Buatlah game strategimu sendiri, dengan karakter-karaktermu sendiri. Asal bisa memakai Notepad, PAINT (sebaiknya Photoshop), kayaknya lucu kalau jagoannya foto kamu dan teman kamu.
+  dll: gamestrategiku.zip
+
+- name: TANGKAP KORUPTOR
+  author: David Setiabudi
+  summary: >
+    Satu Koruptor akan menyengsarakan banyak rakyat. Apa itu Korupsi? Merugikan seperti apa? Mainkan game seru ini bersama KPK Bambo, Somat, dan Gahar dalam 3 stage dan ada animasinya melawan para koruptor.
+  dll: tangkapkoruptor.zip
+
+- name: ANDAI AKU KORUPTOR
+  author: David Setiabudi
+  summary: >
+    Game EXTREME SULIT, anda menjadi seorang KPK yang diburu 3 petugas KPK. Kelincahan anda menggerakkan mouse tanpa senggal-senggol menentukan. AWAS Hukuman KEJUTAN (serius) kalau GAME OVER dan tidak segera mengklik sesuatu...
+  dll: ['andai.zip']
+
+- name: UPGRADE IQ
+  author: David Setiabudi
+  summary: >
+    Game dari Prof Yohanes Surya untuk meningkatkan IQ anda. Anda mencari angka yang kembar, misal anda pilih 1/2 maka cari 2/4. 3/6. 4/8 dan seterusnya. Penyederhanaan bilangan juga bisa dilakukan 10/3 jadi 3 1/3. Salah penyederhanaan = DIOMELI KIDI
+  dll: ['upgradeiq.zip']
+
+- name: MATEMATIKA GASING POXIE TERBANG
+  author: David Setiabudi
+  summary: >
+    Proffesor Yohanes Surya Indonesia-English-Jawa Game petualangan Poxie Musang terbang sambil menjawab soal-soal matematika, dihadang musuh. Mainnya cukup tap atas layar atau tap bawah layar untuk NAIK TURUN.
+  dll: ['gasingpoxieterbang.zip']
+
+- name: GAME CAPRES 2014
+  author: David Setiabudi
+  summary: >
+    BARU!! Pilih capres favoritmu dan perjuangkan melawan capres lain. Makin cepat menjawab soal matematika 4+5+3=.... Capres makin LARI! Seru banget main game ini loh. ARB, Jokowi,Prabowo,Wiranto,Hatta Rajasa, dan Prof.Rhoma Irama siap anda pilih.
+  dll: ['capres2014.zip']
+
+- name: BERAS BESAR (light ver)
+  author: David Setiabudi
+  summary: >
+    Proffesor Yohanes Surya Indonesia-English-Jawa Diilhami dari game PACMAN, Kidi Ayam mencari makan berupa butiran beras, kalau sudah makan 100 biji atau 200 biji maka akan berubah menjadi KIDI PHOENIX selama beberapa waktu. Untuk jawab soal matematikanya : SENGGOL TERUS GAMBAR "?"
+  dll: ['berasbesar.zip']
+
+- name: PANCO MASTER
+  author: David Setiabudi
+  summary: >
+    Tahun 2089 - ada sebuah trend dimana siapa yang paling kuat dalam PANCO dialah yang menjadi ketua di daerah tersebut. Ingin menang Panco? KETIK KATA dengan cepat dan benar.
+  dll: ['panco.zip']
+
+#---------------------
+# Buatan Divine Kids Associates
+# TO DO: Cari info nama creator setiap game.
+#---------------------
+
+- name: Love Journey
+  summary: >
+    Anda akan dihadapkan dengan 3 cewek cantik, bagaimana cara anda menaklukkan pujaan hati anda? Belajar pacaran ? 13 tahun keatas please.
+  dll: ['lovej.zip']
+
+- name: Ron Cherry
+  summary: >
+    Game tipe Cerita Bercabang ini menggunakan bahasa Inggris mengisahkan 2 orang anak yang tersesat di sebuah hutan mistis. Apa mereka bisa keluar?
+  dll: ['roncherry.zip']
+
+- name: The Nanny
+  summary: >
+    Game merawat bayi. Bayi perlu diganti popoknya, diberi minum susu, diajak main, dimandikan,dll. Jangan sampai ada salah nanti dia menangis!
+  dll: nanny.zip
+
+- name: Petualangan Eril
+  summary: >
+    Seorang putri duyung bernama Eril menemukan 2 pangeran tenggelam, manakah yang dia tolong? Akan adakah penyihir bawah laut yang mengganggu?
+  dll: ['eril.zip']
+
+- name: The Lost Village
+  summary: >
+    Saat medali aneh yang anda temukan pecah, anda masuk ke sebuah desa yang hilang. Disana dihuni banyak hantu, ada Kolor Ijo, dll yang memberi tebak-tebakan. Salah jawab=mati !
+  dll: ['lostvillage.zip']
+
+- name: Bello Adventure
+  summary: >
+    Game Cerita Bercabang dengan animasi dan dubbing berbahasa Inggris ini menceritakan Bello yang mencari madu dan istri. Ada jebakan,ayam kecil, lebah, kelinci dalam perjalanannya.
+  dll: ['bello.zip']
+
+- name: Pemburu Jahat
+  summary: >
+    Dalam game tembak-tembakan kacau ini, anda berperan sebagai pemburu hewan-hewan langka. Anda menembaki panda, burung langka, panther, dll. Akankah sang pemburu ditangkap?
+  dll: ['pemburujahat.zip']
+
+- name: Echoes of Silence
+  summary: >
+    Game tembak-tembakan ini mengisahkan seorang cewek cantik yang terdampar di suatu pulau dan disana banyak keganjilan yang harus diselidiki. Vampire Wanita penguasanya.
+  dll: ['echoes.zip']
+
+- name: Pai Che Lo
+  summary: >
+    Anda adalah seorang kaisar yang hendak mencari istri dari berbagai macam dunia. Ada yang dari Jepang, India, Afrika,Inggris. Masing-masing ada kisahnya sendiri.
+  dll: ['paichelo.zip']
+
+- name: Mozzy Mizzy
+  summary: >
+    Mozzy ingin membuktikan cintanya kepada Mizzy. Mizzy meminta bukti kesungguhan cinta tiga buah mutiara cantik.
+  dll: ['mozzymizzy.zip']
+
+- name: Priest - Vampire Slayer
+  summary: >
+    Anda adalah seorang Priest muda yang memiliki kemampuan mengeluarkan jurus api dari tangan anda, anda ditugaskan untuk membasmi vampir-vampir penghisap darah yang centil...??
+  dll: ['vampire.zip']
+
+- name: En Garde (HP Nokia)
+  summary: >
+    Game ksatria berpedang ini seru untuk dimainkan di handphone NOKIA 3650, 3660, 7650 (untuk seri lain belum kami coba). Kemungkinan N-Gage juga bisa.(ZIP jika dibuka ada 2 file).
+  dll: ['engarde.zip']
+
+- name: Kamera Terkutuk
+  summary: >
+    Anda mendapat sebuah kamera yang ternyata dapat memotret hantu. Hantu yang anda potret tersebut menghantui anda. Sebuah game shooting yang sangat seram. Anda harus main!
+  dll: ['kameraterkutuk.zip']
+
+- name: Sharkie Angel
+  summary: >
+    Game cerita bercabang yang mengisahkan kisah detektif Sharkie dari dia SD,SMP,SMA (dapat pilih). Kisah romantis, dan lucu. Ada bonus mini game Pentung Tikus.
+  dll: ['sharkie.zip']
+
+- name: Sayembara Kerajaan
+  summary: >
+    Bawang Putih,Malin Kundang, Timun Mas berusaha menyelamatkan seorang pangeran yang diculik. Karakter yang anda pilih memiliki kisah berbeda, dan lawan berbeda. Ada: Bawang Merah cs.
+  dll: ['sayembara.zip']
+
+- name: Pentung Bambo (HP Nokia)
+  summary: >
+    Game pentung Bambo ini game hp berkarakter Divinekids yang pertama. Suara teriakan lucu. seru untuk dimainkan di handphone NOKIA 3650, 3660, 7650 (seri lain belum kami coba). Kemungkinan N-Gage juga bisa.
+  dll: ['pentungbambo.zip']
+
+- name: Vitruvian Project
+  summary: >
+    Clevio dan Fu Chang adalah 2 pasangan detektif, suatu hari Fu Chang diculik! Clevio harus menolong. Pilih armor, senjata, dll.Semi RPG dan cerita bercabang menarik di sini.
+  dll: ['vitruvian.zip']
+
+- name: Super Seed
+  summary: >
+    Di sebuah negeri ada biji-biji tanaman yang dapat berbicara karena adanya peri bunga. Suatu hari Peri Bunga diculik Meong. Super Seed harus menolong. Ada quiz, latihan mengingat, ketangkasan dalam misinya.
+  dll: ['superseed.zip']
+
+- name: Anything 4 Love
+  summary: >
+    Demi Cinta seorang cowok bersedia berbuat apa saja. Game ini ada pertanyaan tes psikologi, shooting game, ketangkasan,dll. Dari melawan lebah, anjing gila,dll sampai Alien dilawan ... Demi cinta.
+  dll: ['anything4love.zip']
+
+- name: Cupid- Heart Diamond
+  summary: >
+    Game shooting ini memberikan anda pilihan sebagai Mars atau Venus. anda harus membuat orang-orang BT jadi penuh cinta. Anda berpetualang ke seluruh dunia mencari Heart Diamond.
+  dll: ['cupid.zip']
+
+- name: Ace Hard Core
+  summary: >
+    Clevio dan Fu Chang adalah 2 pasangan detektif, suatu hari Fu Chang diculik! Clevio harus menolong. Pilih armor, senjata, dll.Semi RPG dan cerita bercabang menarik di sini.
+  dll: ['ace.zip']
+
+- name: Catur Djawa Online
+  summary: >
+    Tahu kan Catur Djawa? Nah kalo mau main secara online bersama-sama teman anda, anda bisa mendownload game ini. Anda juga bisa chatting sambil main game ini.
+  dll: ['caturdjawa.zip']
+
+- name: Pemburu Tikus
+  summary: >
+    Pemburu Tikus, Game ini adalah game shooting sederhana dengan desain yang cukup menarik. Skor anda akan dicatat secara online.
+  dll: ['pemburutikus.zip']
+
+- name: Pemburu Pocong
+  summary: >
+    Lindungi orang yang sedang semadi di tengah kuburan agar jangan sampai terkena samber Pocong. Ketangkasan anda dalam menembak menentukan nasib sang petapa.
+  dll: ['pemburupocong.zip']
+
+- name: Petualangan Jojo Jeje
+  summary: >
+    Kumpulan mini game lucu dimana Jojo mau bertemu pacarnya Jeje di pulau seberang. Dia harus melewati beberapa pulau. Ada tantangan menghafal urutan gambar, angka, kelincahan menghindar,dll!
+  dll: ['jojojeje.zip']
+
+- name: Pomme
+  summary: >
+    Selamatkan bumi dari Alien yang benci manusia penyebab Global Warming. Ada 2 tipe game unik dalam 1 judul ini. Klik animasi cari solusi dan Petualangan dengan arah keyboard berubah-ubah. Coba!
+  dll: ['pomme.zip']
+
+- name: Campus Girl Crysis
+  summary: >
+    Mahasiswi-mahasiswi diculik!! Ray detektif sekolah ditugaskan Rektor untuk mencari mereka. Cerita bercabang dengan campuran action seru. Kamu harus coba!
+  dll: ['cgc.zip']
+
+- name: Silent Night (versi 1.00)
+  summary: >
+    Game horror action cerita bercabang yang memiliki banyak ending. Bagus buat kamu yang ingin berlatih belajar bahasa Inggris juga TAPI SEREM... Kalo berani sih...
+  dll: ['silentnight.zip']
+
+- name: Ghost In Campus
+  summary: >
+    Kampus Berhantu Indonesia Game horror seram. 5 Mahasiswa bermain Jailangkung lenyap tak berbekas. Kamu sedang di sana waktu itu. Apakah yang akan terjadi padamu?
+  dll: ['gic.zip']
+
+- name: Gatot Kaca 2159
+  summary: >
+    Otot Kawat Balung Wesi! Gatot Kaca lawan mesin robot yang menguasai bumi tahun 2159, manusia sudah tidak berdaya lagi. Kiriman dari Muhammad Rizky Abdul Hakim
+  dll: ['gatotkaca2159.zip']
+
+- name: Hadapi UN (versi 1.00)
+  summary: >
+    Mau hadapi Ujian Nasional? Yakin lulus? Mainkan game ini dulu biar kamu lebih yakin nantinya lulus UN atau tidak :) Seru dan Asyik! Buatan Basil Team yang okeh!
+  dll: ['hadapiun.zip']
+
+- name: Nevanoid
+  summary: >
+    RPG Ras Ghoulvoid tersebut mencoba merekrut keluarga Thunrecrush untuk membantu mereka dalam rencana menguasai dunia. Nevan dan kakaknya menghentikannya... Karya keren : Raditya Tyan
+  dll: ['nevanoid.zip']
+
+- name: DAUN KEHIDUPAN
+  summary: >
+    Game petualangan ini mengisahkan anda sebagai kakak dari adik yang bernama Ilham. Ilham sedang sakit keras, dan hanya bisa diobati dengan Daun Kehidupan.....
+  dll: ['daunkehidupan.zip']
+
+- name: CRAZY FIREWOKS
+  summary: >
+    ANEH! Kembang Api tiba-tiba maunya meledak di bawah melukai orang. Jowy harus mencegah hal itu dengan pistolnya! Action Time!
+  dll: ['crazyfireworks.zip']
+
+- name: Sky Jump (ver 1.00)
+  summary: >
+    Deolis dengan sepatu loncat tingginya dihadapkan dengan robot penghancur kota. Deolis meloncat dari punggung pesawat menuju kepala robot musuh....
+  dll: ['skyjump.zip']
+
+- name: Sky Jump (ver 1.00)
+  summary: >
+    Deolis dengan sepatu loncat tingginya dihadapkan dengan robot penghancur kota. Deolis meloncat dari punggung pesawat menuju kepala robot musuh....
+  dll: ['skyjump.zip']
+
+- name: JOURNEY OF MEDI
+  summary: >
+    Kamu adalah OBAT MENCRET bernama MEDI ( :D Wakakak), permainannya adalah keterampilan kamu geser-geser mouse sampai tuh anak ga mencret/ diare.by Pixelategroup anggota DK Associates.
+  dll: ['medi.zip']
+
+- name: PELARIAN WIi 1
+  summary: >
+    Kamu adalah Wii penyihir cilik yang bosan ikut geng penyihir jahat, jadi mau pindah ke partai PERI. Game ini latih kepekaan geser mouse, Ambil Kunci dulu baru bisa buka pintu.Buatan MMM-Marshellina Monica dan Monica angoota DK Associates.
+  dll: ['wii.zip']
+
+- name: FARMONSTER
+  summary: >
+    Kamu adalah peternak yang terpisah dengan orang tua karena peperangan. Modalmu 1 tanah kosong dan Rp 30. Jual beli, pemeliharaan hewan penting. Eits! Jangan sampai Monster Prockok Zolimist memakan hewan ternak anda!
+  dll: ['farmonster.zip']
+
+- name: BAMBO VS SERBUAN ANJING PEROKOK
+  summary: >
+    Anjing perokok menyerbu bumi, misinya menjadikan semua manusia menjadi perokok. Anak-anak sesak napas, mereka terZOLIMI, Bambo dan seorang peri melawan kekejian mereka!
+  dll: ['serbuan.zip']
+
+- name: PETUALANGAN WII 2
+  summary: >
+    Perang antara kaum penyihir dan peri terjadi saat Wii berpindah dari penyihir ke peri. Hal ini dikarenakan para penyihir merampok desa-desa. Teman-teman Wii dikurung karena ingin jadi peri seperti Wii.
+  dll: ['wii2.zip']
+
+- name: ADV XIAO LU
+  summary: >
+    Indonesia by Enygmus.     Pengumuman dari Raja Wei tentang kompetisi memperebutkan tahta Raja membuat Xiao Lu berambisi banyak jurus ELEMENTAL.     Game Ini KEREN, tapi ukurannya GEDE banget!
+  dll: ['lu.zip']
+
+- name: INDONESIA MERDEKA
+  summary: >
+    Indonesia by Lioncat Darius Game untuk Android Tablet ini isinya BANYAK MINI GAME mulai dari Loncat Karung, Tarik Tambang, Lempar Kelereng,dll Lomba untuk peringatan kemerdekaan Indonesia.
+  dll: ['indonesiamerdeka17an.apk']
+
+- name: FORESTIA
+  summary: >
+    Indonesia by MadFal. Aksi penebang hutan menggila, bahkan sampai pohon langka pun mau ditebang. FORESTIA mengisahkan pejuang pelindung bumi ini melawan serbuan para penebang liar dan mesin Tank Penghancur!
+  dll: ['forestia.zip']
+
+- name: DISH FRENZY
+  summary: >
+    English by MadFal. Game makan-makan saat Ramadhan yang bikin greget. Bantu Vatin menghabiskan makanan dengan waktu tercepat. Help Vatin to eat fast, by pressing Z X C or drag the unhealthy food to trash.
+  dll: ['dishfrenzy.zip']
+
+- name: KOKI NUSANTARA
+  summary: >
+    Marshallina Trang Nimamuri. Game cara memasak masakan Indonesia, apa saja bumbunya, cara memasaknya bagaimana, dilengkapi video cara memasak yang menarik. Diajari cara memotong, memilih bumbu, dsb.
+  dll: ['kokinusantara.zip']
+
+- name: MATH CURSE
+  summary: >
+    Monster-monster menyerbu Abyis, sebuah kota yang cinta MATEMATIKA., yang disihir agar BENCI MATEMATIKA. Niko pendekar kebenaran harus melakukan sesuatu!
+  dll: ['mathcurse.swf']
+
+- name: DILARANG BOLOS SEKOLAH
+  summary: >
+    Indonesia - by Madfal. Tahun 20xx Bolos sekolah di Sekolah Nusantara melakukan bolos massal. Maka KPK mengutus perwakilanKomisi Pemberantas Korupsi Sejak Dini. Game SERU dan full strategi !!!
+  dll: ['dilarangbolossekolah.rar']
+
+- name: BEKANTAN
+  summary: >
+    Indonesia - by Adi Citta Agitsha. Game kepekaan klik mengendalikan Bekantan si Monyet terbang menghindari tiang-tiang. Game full of STRESS. Biasa manusia main dapat skor dibawah 5.
+  dll: ['bekantan.zip']
+
+- name: BURUNGMATIKA
+  summary: >
+    Game action gerakkan burung merpati dengan mouse, hindari pohon dan elang. Klik kiri untuk bertelur di keranjang angka yang tepat. Berjuanglah Burungmatika! Karya Richie Bachtiar - Surya University !
+  dll: ['burungmatika.zip']
+
+- name: KNIGHT LEGEND
+  summary: >
+    Appolos menjadi murid seorang pendekar terkenal GOLDIUS, mereka mencari harta yang dijaga para monster. Appolos belajar jurus, dan mencari baju zirah, dia bisa ganti baju dan jurus. Lawan berbagai macam boss- petualangan panjang & seru. Karya Ray Paulus.
+  dll: ['knightlegend.zip']
+
+- name: FRIXA
+  summary: >
+    Selagi main game tiba-tiba Iru tersedot ke dalam game Frixa, untuk kembali ke dunianya, Iru berjuang melawan Omega. Main game ini dengan klik titik merah saat ANIMASI FIGHTING. Selain itu game gerakkan jagoan dengan mouse. Karya Joshua Ariel - Surya University.
+  dll: ['frixa.zip']
+
+- name: SICK DODGEBALL
+  summary: >
+    English. Game orang yang sedang dibully, dan anda menjadi orang yang dibully, minta-minta ampun. Hindari lemparan2 bola. Ada 3 stage per level, JANGAN COBA yang Crazy, karena kalau kalah komputer anda diSHUTDOWN. Game Easy gampang, lainnya Bikin Stress. Karya Evan Robinson- Surya University.
+  dll: ['sickdodgeball.zip']
+
+- name: GALACTIC BATTLE
+  summary: >
+    Game sederhana tentang pesawat antariksa JOHNGUN melawan kapal alien cukup asyik dimainkan. Karya pertama dari Jonathan Gunawan- Surya University !
+  dll: ['galacticbattle.zip']
+
+- name: PRIMA - ANTI TEROR & BEGAL
+  summary: >
+    Game SIMPLE RPG ini mengisahkan tentang keanehan kemunculan PARA BEGAL di banyak kota dalam waktu bersamaan. Adakah kekuasaan yang menggerakan mereka? Politik? Militer? Untuk tembak? Cari bilangan PRIMA. Karya Muhammad Ivan Achlaqullah - Surya University !
+  dll: ['prima.zip']
+
+- name: SAMURAI JABRIK
+  summary: >
+    Game seorang samurai yang hendak menolong cucu perempuan seorang kakek. Dijanjikan bisa menikah dengan sang cucu. Klik kiri pedang, klik kanan tembak silver bullet. Karya pertama dari Hizkia Dwiatmaja- Surya University!
+  dll: ['samuraijabrik.zip']
