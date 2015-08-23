@@ -1,0 +1,130 @@
+# Keterangan pada array Meta-data
+# -- meta: [ 'Author', 'Tahun', 'banyak halaman', 'Info']
+# TO DO: Better data.
+
+- name: Divine Kids - Malin Kundang
+  meta: ['David Setiabudi', '1998', '98', 'https://www.facebook.com/david.setiabudi']
+  summary: >
+    Abe Bambo Cici hendak mengubah Malin Kundang jadi baik dan terhindar dari
+    kutukan sang Ibu, yang ada malah ditampar Malin Kundang
+  dll: ['divinekids-malinkundang.zip']
+
+- name: Sumpah Palapa Divine Chronicle
+  meta: ['David Setiabudi', '2006', '10', 'https://www.facebook.com/david.setiabudi']
+  summary: >
+    Abe Bambo Cici bertugas menolong Gajah Mada? melawan Kertanegara?
+  dll:
+
+- name: Bambo Ijo
+  meta: ['David Setiabudi', '2009', '1', 'david_setiabudi2@yahoo.com']
+  summary: >
+    Mengisahkan ada perokok di dalam sebuah bis yang bener-bener kurang ajar sampai bikin Bambo sebel... Komik ini bisa diprint dan ditempelkan.
+  dll:
+
+- name: Petualangan Bambo
+  meta: ['David Setiabudi', '2002', '6', 'david_setiabudi2@yahoo.com']
+  summary: >
+    Bambo dan Kidi terbang mengambil permata di puncak Pilar Langit. Berhasilkah mereka?
+  dll:
+
+- name: Si Bandel Bambo
+  meta: ['David Setiabudi', '2001', '5', 'david_setiabudi2@yahoo.com']
+  summary: >
+    Mengisahkan Bambo yang disuruh mengambil telur untuk sarapan pagi di kandang ayam miliknya. Dijamin kocak deh!
+  dll:
+
+- name: KUAS AJAIB
+  meta: ['David Setiabudi', '1996', '10', 'david_setiabudi2@yahoo.com']
+  summary: >
+    Sebuah kuas memiliki kekuatan : apa pun yang digambar dapat hidup. Pemililknya seorang cowok yang naksir putri kerajaan. Bagaimana kisahnya?
+  dll:
+
+- name: Hari Sial Kidi
+  meta: ['David Setiabudi', '1996', '16', 'david_setiabudi2@yahoo.com']
+  summary: >
+    Kidi ayam selalu sial tiap tanggal 13. Agie dan Poxie akan makin mengerjai Kidi pada hari tsb. Hancur deh!!!
+  dll:
+
+- name: Jagoan Sampah (SKETSA)
+  meta: ['David Setiabudi', '2011', '14', 'david_setiabudi2@yahoo.com']
+  summary: >
+    Sketsa komik ini mengisahkan Kidi yang ingin menjadi superhero. Niat jadi superhero Kidi dimanfaatkan Poxie, maka kekacauan terjadi....
+  dll:
+
+- name: OCTO
+  meta: ['Krusto', '2011', '14', 'manusia_kadal@hotmail.com']
+  summary: >
+    Seorang pembunuh bayaran dengan masa lalu yang menyedihkan... Bagaimana dia bisa menjadi seorang pembunuh bayaran???
+  dll:
+
+- name: TIME
+  meta: ['Rocsanne', '2011', '14', 'rocsanne.up@gmail.com']
+  summary: >
+    Seorang gadis nakal yang memperoleh benda yang dapat menghentikan waktu, bagaimana dia memanfaatkannya? Baik atau buruk?
+  dll:
+
+- name: HAMSTER RAKYAT
+  meta: ['Matheus Prayogo', '2011', '22', 'mamatvida15@yahoo.co.id']
+  summary: >
+    Hamster Syria yang berukuran besar yang baru diletakkan di kandang hamster biasa bikin kerusuhan, pertarungan kungfu pun terjadi...
+  dll:
+
+- name: THE DRIVER
+  meta: ['Baswara Mursyid', '2011', '14', 'suarabas@gmail.com']
+  summary: >
+    Secara tak terduga J.Bond masuk ke angkot seorang supir Indonesia. Bond diburu banyak pembunuh bayaran. Bagaimana kisahnya? Seru abis!!!
+  dll:
+
+- name: I DON'T WANNA BE
+  meta: ['Arlin A,Kevin, M Prayogo, Michael Timothy, Raisa Jessica', '2011', '24', 'mikaeru_v6@windowslive.com']
+  summary: >
+    Gemuk itu problem untuk menggaet pacar, operasi plastik solusinya?
+  dll:
+
+- name: TARUNG RASA
+  meta: ['Michelle Gracia, Emilana Hertati Christian Aditya, Danu Indrakaryana', '2011', '19', 'azycats10@yahoo.com']
+  summary: >
+    Pertarungan masakan dunia terjadi, peserta Indonesia mengeluarkan Pempek Palembang ...
+  dll:
+
+- name: SHOPPING GIRL
+  meta: ['Melisa, Stephany Mery Hogustan, Wulan Agustias', '2011', '19', 'lazycats10@yahoo.com']
+  summary: >
+    Punya pacar yang gila shopping bikin stress, tapi sudah terlanjur cinta, jadi ginmana dong solusinya...???
+  dll:
+
+- name: DETEKTIF BAMBANG
+  meta: ['Harits Indi Pratama Antonius Alven, Vani Sagita, Regita Harits Indi Pradana', '2011', '31', 'haritsindi91@yahoo.com']
+  summary: >
+    Komik keren abiz ini mengisahkan penyelidikan pembunuhan cewek cantik
+  dll:
+
+- name: KOMIKITA
+  meta: ['DELIMAROCS: Rocsanne, Della, Irena, Marlyn', '2011', '31', 'haritsindi91@yahoo.com']
+  summary: >
+    Komik keren abiz ini mengisahkan usaha menjadi komikus terkenal
+  dll:
+
+- name: PENJAGA CINTA
+  meta: ['Qaedi Fuadillah, Koosandriyani R. Prabandari, Divanda Gitadesiani, M. Gian Reyhan, Andra Hendra Pratama', '2011', '18', 'qaedi.fuadillah@gmail.com']
+  summary: >
+    Gaya gambar unik, cerita KOCAK ABIZ, aneh, & nyolot. Harus dibaca
+  dll:
+
+- name: UNSPOKEN WORDS
+  meta: ['Agnes Retno, Thres Karania, Amanda Ruswanti', '2011', '18', 'agnesretno@hotmail.com']
+  summary: >
+    Untuk dicintai, Fayes menginginkan badan yang ramping. Tetapi ternyata sang cowok....
+  dll:
+
+- name: ANAK TERLALU DIMANJA
+  meta: ['David Setiabudi', '2014', '14', '']
+  summary: >
+    Berbuat salah seperti apapun BEJO, dibela oleh neneknya, bahkan Ibunya pun tidak bisa menentang nenek. Jadi apa besarnya anak ini?
+  dll:
+
+- name: BAMBO TAKUT ULAR
+  meta: ['David Setiabudi', '2014', '6', '']
+  summary: >
+    Bambo menjadi ketakutan dengan ular semenjak dikerjai oleh Bejo Mengkilat, bagaimanakah cara Bambo sembuh dari ketakutan akan ular?
+  dll:
