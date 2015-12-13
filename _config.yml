@@ -1,0 +1,33 @@
+# Site settings
+title: DIVINE KIDS - Game Pertama Indonesia Resmi (Officialy First Indonesian Game)
+tagline: Game Pertama Indonesia Resmi
+description: >
+  Download gratis 100+ game Indonesia! Free games downloads! Freware!
+  RPG, Role-Playing Games, Action Games, Shooting Games, Game Anak, Game
+  Edukasi, dan masih banyak lagi!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://divinekids.com" # the base hostname & protocol for your site
+
+blog:
+  title: Divinekids.com Entries
+  tagline: "Komentar & Kenalan Game Indonesia Divinekids: Cherry Days, Campus Fighter, dll"
+
+social: # Social
+  facebook: 271650534917
+  gplus: ~
+  twiiter: ~
+
+ddl: # Download links
+  gdrives: gdriv.es/divinekids
+  server: ['divinekids.com', 'www.gameindonesiagratis.com']
+  kumpulbagi: kumpulbagi.com
+
+
+# Build settings
+markdown: kramdown
+timezone:      Asia/Jakarta
+
+source:        source
+destination:   _site
+
+permalink: /blog/:title
