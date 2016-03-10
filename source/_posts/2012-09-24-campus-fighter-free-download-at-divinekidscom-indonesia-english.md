@@ -12,7 +12,7 @@ Download di [Halaman Game][dk-download].
 
 Screenshot:
 
-![Screen1]({% image post/previe11.jpg %})
+![Screen1](img/previe11.jpg)
 
 [dk]:           http://divinekids.com
 [dk-download]:  http://divinekids.com/download/

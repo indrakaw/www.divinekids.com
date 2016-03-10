@@ -12,8 +12,8 @@ Download di [Halaman Game][dk-download].
 
 Screenshot:
 
-![Screen1]({% image post/ngoceh10.jpg %})
-![Screen1]({% image post/ngoceh11.jpg %})
+![Screen1](img/ngoceh10.jpg)
+![Screen1](img/ngoceh11.jpg)
 
 [dk]:           http://divinekids.com
 [dk-download]:  http://divinekids.com/download/

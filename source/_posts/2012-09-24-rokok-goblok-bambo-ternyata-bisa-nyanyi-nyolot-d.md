@@ -6,7 +6,7 @@ categories: ['Release']
 comment: true
 ---
 
-![Cover]({% image post/icon-rokokgoblok-bambopenyanyi.jpg %})
+![Cover](img/icon-rokokgoblok-bambopenyanyi.jpg)
 
 Download suara ancur Bambo nyanyi ROKOK GOBLOK\n
 > Disini asap disana asap, buat gue pengap...\n
