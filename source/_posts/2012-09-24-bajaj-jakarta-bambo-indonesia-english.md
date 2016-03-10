@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Bajaj Jakarta Bambo (Indonesia - English)"
 author: david
 date:   2012-09-24 00:00:00
@@ -14,7 +13,7 @@ Download di [Halaman Game][dk-download].
 
 Screenshot:
 
-![Screen1](/blog/bajajj10.jpg)
+![Screen1]({% image post/bajajj10.jpg %})
 
 [dk]:           http://divinekids.com
 [dk-download]:  http://divinekids.com/download/

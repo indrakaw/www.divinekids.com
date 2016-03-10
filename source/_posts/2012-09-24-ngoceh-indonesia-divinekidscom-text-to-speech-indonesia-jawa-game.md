@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "NGOCEH INDONESIA - divinekids.com Text to Speech Indonesia Jawa GAME"
 author: david
 date:   2012-09-24 00:00:00
@@ -13,8 +12,8 @@ Download di [Halaman Game][dk-download].
 
 Screenshot:
 
-![Screen1](/blog/ngoceh10.jpg)
-![Screen1](/blog/ngoceh11.jpg)
+![Screen1]({% image post/ngoceh10.jpg %})
+![Screen1]({% image post/ngoceh11.jpg %})
 
 [dk]:           http://divinekids.com
 [dk-download]:  http://divinekids.com/download/

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Game ANJING PEROKOK - Game anti perokok di tempat umum (Indonesia - English)"
 author: david
 date:   2012-09-24 00:00:00
@@ -15,7 +14,7 @@ A game to protest smokers that smoke in public areas. Download for free at [Divi
 
 Screenshot:
 
-![Screen1](/blog/anjing10.jpg)
+![Screen1]({% image post/anjing10.jpg %})
 
 [dk]:           http://divinekids.com
 [dk-download]:  http://divinekids.com/download/

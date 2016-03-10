@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Campus Fighter - Free download at Divinekids.com (Indonesia - English)"
 author: david
 date:   2012-09-24 00:00:00
@@ -13,7 +12,7 @@ Download di [Halaman Game][dk-download].
 
 Screenshot:
 
-![Screen1](/blog/previe11.jpg)
+![Screen1]({% image post/previe11.jpg %})
 
 [dk]:           http://divinekids.com
 [dk-download]:  http://divinekids.com/download/

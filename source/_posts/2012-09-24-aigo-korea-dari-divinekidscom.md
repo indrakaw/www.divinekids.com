@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "AIGO KOREA! dari divinekids.com"
 author: david
 date:   2012-09-24 00:00:00
@@ -11,7 +10,7 @@ comment: true
 
 Screenshot:
 
-![Screen1](/blog/aigoko10.jpg)
+![Screen1]({% image post/aigoko10.jpg %})
 
 [dk]:           http://divinekids.com
 [dk-download]:  http://divinekids.com/download/
