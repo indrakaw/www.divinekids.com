@@ -10,7 +10,7 @@ comment: true
 
 Screenshot:
 
-![Screen1](img/aigoko10.jpg)
+![Screen1]({{ site.url }}/blog/img/aigoko10.jpg)
 
 [dk]:           http://divinekids.com
 [dk-download]:  http://divinekids.com/download/
