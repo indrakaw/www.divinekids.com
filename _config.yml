@@ -1,33 +1,56 @@
 # Site settings
 title: DIVINE KIDS - Game Pertama Indonesia Resmi (Officialy First Indonesian Game)
-tagline: Game Pertama Indonesia Resmi
-description: >
-  Download gratis 100+ game Indonesia! Free games downloads! Freware!
-  RPG, Role-Playing Games, Action Games, Shooting Games, Game Anak, Game
-  Edukasi, dan masih banyak lagi!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://divinekids.com" # the base hostname & protocol for your site
+server: # Download server
+  - divinekids.com
+  - www.gameindonesiagratis.com
 
+
+# Blog meta
 blog:
   title: Divinekids.com Entries
   tagline: "Komentar & Kenalan Game Indonesia Divinekids: Cherry Days, Campus Fighter, dll"
 
-social: # Social
-  facebook: 271650534917
-  gplus: ~
-  twiiter: ~
 
-ddl: # Download links
-  gdrives: gdriv.es/divinekids
-  server: ['divinekids.com', 'www.gameindonesiagratis.com']
-  kumpulbagi: kumpulbagi.com
+# Meta tag
+google-verification:    ""
+description: > #
+  Download gratis 100+ game Indonesia! Free games downloads! Freware!
+  RPG, Role-Playing Games, Action Games, Shooting Games, Game Anak, Game
+  Edukasi, dan masih banyak lagi!
+keywords: > #
+  games, free games, game indonesia
 
+
+# Social
+facebook:     271650534917
+gplus:        ~
+twiiter:      ~
+
+# Vendor assets. If production, use cdn. Simple and clean.
+production: true
+cdn:
+  jqueryjs: ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
+  foundationjs: cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.js
+  foundationcss: cdnjs.cloudflare.com/ajax/libs/foundation/6.2.0/foundation.min.css
+
+# Default front-matter value
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
 
 # Build settings
-markdown: kramdown
+markdown:      kramdown
 timezone:      Asia/Jakarta
 
 source:        source
 destination:   _site
 
-permalink: /blog/:title
+permalink:        /blog/:title/
+paginate_path:    /blog/page:num
+paginate:         5
