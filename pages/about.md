@@ -2,11 +2,12 @@
 title: About
 permalink: /about/
 ---
+Hello, anda yang membaca!
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Situs ini adalah situs DivineKids-NEXT. Situs untuk DivineKids di masa yang
+akan mendatang. **WIP.**
 
-You can find the source code for the Jekyll new theme at:
-[minima](https://github.com/jekyll/minima)
+Saat ini pengembangan difokuskan ke konten daripada tampilan front-end.
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Untuk transparasi dan mempermudah kontribusi, source code dan segala log
+commit terdapat di [repo Github](https://github.com/indrakaw/www.divinekids.com).

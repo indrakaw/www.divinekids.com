@@ -28,6 +28,12 @@ exclude:
   - script
 permalink:        /blog/:title
 
+# Collections
+collections:
+  games:
+    output: true
+    permalink: /:collection/:name
+
 # Default values
 defaults:
   # Common scopes
