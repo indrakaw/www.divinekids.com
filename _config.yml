@@ -1,0 +1,41 @@
+# Main settings
+title: Divine Kids
+email: your-email@domain.com
+description: DIVINE KIDS - Game Pertama Indonesia Resmi (Officialy First Indonesian Game)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+disqus:
+  shortname: divinekids
+lang: id
+
+# Build settings
+markdown: kramdown
+encoding: "utf-8"
+timezone: Asia/Jakarta
+theme: minima
+sass:
+  style: compressed
+gems: # see Gemfile.lock list of usable gem.
+  - jekyll-feed
+  - jekyll-titles-from-headings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - _games/README.md
+  - script
+permalink:        /blog/:title
+
+# Default values
+defaults:
+  - scope:
+      type: pages
+    values:
+      layout: page
+  - scope:
+      type: posts
+    values:
+      layout: post
+      image_path: /images/blog/
