@@ -30,6 +30,7 @@ permalink:        /blog/:title
 
 # Default values
 defaults:
+  # Common scopes
   - scope:
       type: pages
     values:
@@ -39,3 +40,10 @@ defaults:
     values:
       layout: post
       image_path: /images/blog/
+
+  # Collections
+  - scope:
+      type: games
+    values:
+      layout: page
+      image_path: /images/games/
