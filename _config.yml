@@ -2,7 +2,7 @@
 title: Divine Kids
 email: your-email@domain.com
 description: DIVINE KIDS - Game Pertama Indonesia Resmi (Officialy First Indonesian Game)
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "www.divinekids.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
