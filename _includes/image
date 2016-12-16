@@ -1,0 +1,31 @@
+{% comment %}
+
+Include ini memungkinkan anda menampilkan gambar dengan mudah.
+Untuk pemakaian, tidak perlu menabah `.html` di akhir.
+
+Satu include, satu gambar. Semua gambar mengarah ke folder /images/ root repo.
+
+Pemakaian dasar:
+
+    {% include image src="filename-gambar.png" %}
+
+    {% include image src="direktori/filename-gambar.png" %}
+
+Anda bisa tambahkan tag lain, seperti:
+
+    {% include image src="filename-gambar.png" class="border-tebal" alt="nama gambar" %}
+
+TODO:
+Untuk menggunakan gambar external, anda hanya perlu menabahkan "/" (slash), "http(s)" atau "//".
+
+{% endcomment %}
+
+{% if include.image_path %}
+  {% assign img_path = include.image_path | relative_url %}
+{% elsif page.image_path %}
+  {% assign img_path = page.image_path | relative_url %}
+{% else %}
+  {% assign img_path = "/images/" | relative_url %}
+{% endif %}
+
+<img {% if include.class %}class="{{ include.class }}" {% endif %}src="{{ img_path }}{{ include.src }}"{% if include.name %} alt="{{ include.name }}"{% endif %} />
