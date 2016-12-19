@@ -2,7 +2,7 @@
 title: Divine Kids
 email: your-email@domain.com
 description: DIVINE KIDS - Game Pertama Indonesia Resmi (Officialy First Indonesian Game)
-baseurl: "www.divinekids.com" # the subpath of your site, e.g. /blog
+baseurl: "/www.divinekids.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -19,23 +19,27 @@ sass:
   style: compressed
 gems: # see Gemfile.lock list of usable gem.
   - jekyll-feed
-  - jekyll-titles-from-headings
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - _games/README.md
+  - _comics/README.md
   - script
-permalink:        /blog/:title
+permalink: /blog/:title
 
 # Collections
 collections:
   games:
     output: true
     permalink: /:collection/:name
+  comics:
+    output: true
+    permalink: /:collection/:name
 
 # Default values
 defaults:
+
   # Common scopes
   - scope:
       type: pages
@@ -52,4 +56,9 @@ defaults:
       type: games
     values:
       layout: page
-      image_path: /images/games/
+      image_path: /images/gallery/
+  - scope:
+      type: comics
+    values:
+      layout: page
+      image_path: /images/comics/
