@@ -61,5 +61,5 @@ defaults:
   - scope:
       type: comics
     values:
-      layout: page
+      layout: comic-page
       image_path: /images/gallery/
