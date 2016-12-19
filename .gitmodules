@@ -3,4 +3,4 @@
 	url = https://github.com/divinekids/games.git
 [submodule "_comics"]
 	path = _comics
-	url = git@github.com:divinekids/comics.git
+	url = https://github.com/divinekids/comics.git
