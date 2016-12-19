@@ -1,0 +1,12 @@
+---
+layout: page
+---
+<div class="description">{{ content }}</div>
+<div class="metadata">
+<ul>
+  <li>Author: {{ page.author | join: ', ' }}</li>
+  <li>Year/date: {% if page.date %}{{ page.date }}{% else %}{{ page.year }}{% endif %}</li>
+  <li>Filename: {{ page.filename | join: ', ' }}</li>
+  <li>Gallery: {{ page.filename | join: ', ' }}</li>
+</ul>
+</div>

@@ -1,0 +1,13 @@
+---
+layout: page
+---
+{{ content }}
+
+<ul class="game-list">
+  {% for game in site.games %}
+    <li>
+      <a class="game-link" href="{{ game.url | relative_url }}">{{ game.title | escape }}</a>
+      <span  class="post-meta"> by {{ game.author | join: ', ' }}</span>
+    </li>
+  {% endfor %}
+</ul>

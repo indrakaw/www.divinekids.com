@@ -56,7 +56,7 @@ defaults:
   - scope:
       type: games
     values:
-      layout: page
+      layout: game-page
       image_path: /images/gallery/
   - scope:
       type: comics
