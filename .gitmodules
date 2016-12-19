@@ -1,6 +1,0 @@
-[submodule "_games"]
-	path = _games
-	url = https://github.com/divinekids/games.git
-[submodule "_comics"]
-	path = _comics
-	url = https://github.com/divinekids/comics.git
