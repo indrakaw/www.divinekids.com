@@ -61,4 +61,4 @@ defaults:
       type: comics
     values:
       layout: page
-      image_path: /images/comics/
+      image_path: /images/gallery/
