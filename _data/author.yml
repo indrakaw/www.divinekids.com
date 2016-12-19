@@ -1,0 +1,16 @@
+# Data berikut adalah nama author di semua halaman. Name memanggil fullname.
+#
+# Penggunaan:
+# author: authorname
+#
+# Atau, anda bisa tambahankan beberapa author name, cukup tambahkan:
+# author:
+#   - author1
+#   - author2
+#
+# Author name yang tidak terdata, akan fallback ke asal konten.
+
+- name: david
+  fullname: David Setiabudi
+- name: dk-assoc
+  fullname: DK Associations
