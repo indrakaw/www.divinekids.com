@@ -1,0 +1,13 @@
+---
+layout: page
+---
+{{ content }}
+
+<ul class="comic-list">
+  {% for comic in site.comics %}
+    <li>
+      <a class="comic-link" href="{{ comic.url | relative_url }}">{{ comic.title | escape }}</a>
+      <span  class="post-meta"> by {{ comic.author | join: ', ' }}</span>
+    </li>
+  {% endfor %}
+</ul>

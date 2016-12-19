@@ -1,4 +1,5 @@
 # editorconfig.org
+# If you're using atom or vcode, please disable whitespace-package
 
 root = true
 
@@ -11,3 +12,6 @@ trim_trailing_whitespace = true
 
 [*.md]
 trim_trailing_whitespace = false
+
+[*.csv]
+insert_final_newline = false
